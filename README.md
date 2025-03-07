@@ -21,3 +21,5 @@ $I(t + \Delta t) - I(t) = cS(t)I(t)\Delta t - gI(t)\Delta t$
 $c = 4 \times 0.0001 = 0.0004$  
 1日に20%が回復すると仮定して  
 $g = 0.2$
+
+![Simulation Output](output.png)
